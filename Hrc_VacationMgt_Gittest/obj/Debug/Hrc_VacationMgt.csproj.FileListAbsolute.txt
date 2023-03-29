@@ -1,0 +1,11 @@
+C:\ERP\vPlusERP\CM\HR\Dlls\vPlus.erp.HR.Hrc_VacationMgt.dll
+C:\ERP\vPlusERP\CM\HR\Dlls\vPlus.erp.HR.Hrc_VacationMgt.pdb
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationCreateDlg.resources
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationCreateMonthDlg.resources
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.resources
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Properties.Resources.resources
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\Hrc_VacationMgt.csproj.GenerateResource.Cache
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.dll.licenses
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.dll
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.pdb
+C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\Hrc_VacationMgt.csprojResolveAssemblyReference.cache
