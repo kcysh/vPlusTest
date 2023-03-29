@@ -1,0 +1,17 @@
+C:\ERP\vPlusERP\CM\HR\Dlls\vPlus.erp.HR.Hra_BaseInfo.dll
+C:\ERP\vPlusERP\CM\HR\Dlls\vPlus.erp.HR.Hra_BaseInfo.pdb
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_NewEmpDlg.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Properties.Resources.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\Hra_BaseInfo.csproj.GenerateResource.Cache
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.dll.licenses
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.dll
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.pdb
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\Hra_BaseInfo.csprojResolveAssemblyReference.cache
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_NewEmpDlg.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Properties.Resources.resources
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\Hra_BaseInfo.csproj.GenerateResource.Cache
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.dll.licenses
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.dll
+C:\ERP\vPlusERP\CM\HR\Hra_BaseInfo - 복사본\Hra_BaseInfo\obj\Debug\vPlus.erp.HR.Hra_BaseInfo.pdb
