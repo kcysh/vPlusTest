@@ -9,3 +9,14 @@ C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc
 C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.dll
 C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.pdb
 C:\ERP\vPlusERP\CM\HR\Hrc_VacationMgt\Hrc_VacationMgt\obj\Debug\Hrc_VacationMgt.csprojResolveAssemblyReference.cache
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\Dlls\vPlus.erp.HR.Hrc_VacationMgt.dll
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\Dlls\vPlus.erp.HR.Hrc_VacationMgt.pdb
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\Hrc_VacationMgt.csprojResolveAssemblyReference.cache
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationCreateDlg.resources
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationCreateMonthDlg.resources
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.resources
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Properties.Resources.resources
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\Hrc_VacationMgt.csproj.GenerateResource.Cache
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.dll.licenses
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.dll
+C:\Users\shiel\Desktop\장영인 개인문서\Git\git-test\vplus\vPlusTest\Hrc_VacationMgt_Gittest\obj\Debug\vPlus.erp.HR.Hrc_VacationMgt.pdb
