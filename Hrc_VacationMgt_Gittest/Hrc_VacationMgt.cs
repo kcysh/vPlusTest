@@ -18,6 +18,7 @@ using JPlatform.Client.ERPBaseFormInherit;
 
 //2023.03.29 깃테스트
 //111111111111111111111111
+//브랜치에만 커밋테스트
 namespace vPlus.erp.HR
 {
     /// <summary>
